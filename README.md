@@ -366,7 +366,7 @@ Ajoute bien `config.env` à ton `.gitignore`.
 
 - [Yusuf Usta](https://github.com/Quiec) pour [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
 - [@adiwajshing](https://github.com/adiwajshing) pour [Baileys](https://github.com/adiwajshing/Baileys)
-- [Limule hinugera](https://wa.me/237673278970)pour le générateur de session et les clés API
+- [Limule hinugera](https://wa.me/237673278970) pour le générateur de session et les clés API
 ---
 
 # Support / Contact
