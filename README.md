@@ -366,7 +366,7 @@ Ajoute bien `config.env` à ton `.gitignore`.
 
 - [Yusuf Usta](https://github.com/Quiec) pour [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
 - [@adiwajshing](https://github.com/adiwajshing) pour [Baileys](https://github.com/adiwajshing/Baileys)
-
+- [Limule hinugera](https://wa.me/237673278970)pour le générateur de session et les clés API
 ---
 
 # Support / Contact
@@ -374,4 +374,6 @@ Ajoute bien `config.env` à ton `.gitignore`.
 Pour toute question, bug ou suggestion :
 - [Groupe TeleGram](https://t.me/free_data_tools)
 - [Issues GitHub](https://github.com/darling237221/ASENA_MD/issues)
-- [LIMULE](wa.me/237673278970)
+- [Shika](https://wa.me/237673278970)
+- [Chaîne WhatsApp](https://whatsapp.com/channel/0029VajBry5FnSzAqZxMhi1i)
+- [Groupe WhatsApp](https://chat.whatsapp.com/G0lLULzahLN7XkWcGHliV7?mode=ems_copy_c)
